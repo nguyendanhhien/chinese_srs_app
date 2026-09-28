@@ -1,0 +1,24 @@
+[
+  {
+    "id": "builtin_001",
+    "title": "我的一天",
+    "segments": [
+      { "hanzi": "我", "pinyin": "wǒ", "meaningVi": "tôi" },
+      { "hanzi": "每天", "pinyin": "měitiān", "meaningVi": "mỗi ngày" },
+      { "hanzi": "早上", "pinyin": "zǎoshang", "meaningVi": "buổi sáng" },
+      { "hanzi": "七点", "pinyin": "qī diǎn", "meaningVi": "bảy giờ" },
+      { "hanzi": "起床", "pinyin": "qǐchuáng", "meaningVi": "thức dậy" },
+      { "hanzi": "。", "pinyin": "", "meaningVi": "" },
+      { "hanzi": "然后", "pinyin": "ránhòu", "meaningVi": "sau đó" },
+      { "hanzi": "吃", "pinyin": "chī", "meaningVi": "ăn" },
+      { "hanzi": "早饭", "pinyin": "zǎofàn", "meaningVi": "bữa sáng" },
+      { "hanzi": "，", "pinyin": "", "meaningVi": "" },
+      { "hanzi": "接着", "pinyin": "jiēzhe", "meaningVi": "tiếp theo" },
+      { "hanzi": "去", "pinyin": "qù", "meaningVi": "đi" },
+      { "hanzi": "上班", "pinyin": "shàngbān", "meaningVi": "đi làm" },
+      { "hanzi": "。", "pinyin": "", "meaningVi": "" }
+    ],
+    "source": "builtin",
+    "createdAt": "2026-01-01T00:00:00.000"
+  }
+]

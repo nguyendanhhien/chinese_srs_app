@@ -27,11 +27,15 @@ dependencies:
   # Gọi API ngoài lấy thêm bài đọc
   http: ^1.2.2
 
+  # Lưu cài đặt đơn giản (số bài/ngày, giờ nhắc học, cỡ chữ, hiện pinyin)
+  shared_preferences: ^2.3.2
+
   # Tính pinyin tự động cho chữ Hán không có sẵn trong từ điển mini
   pinyin: ^3.2.0
 
   # Thông báo nhắc học hằng ngày
   flutter_local_notifications: ^18.0.1
+  timezone: ^0.10.1 # xử lý múi giờ khi đặt lịch thông báo hằng ngày
 
   # Đọc file JSON từ assets (bài mẫu, từ điển mini) lúc khởi tạo lần đầu
   # (dùng luôn API JSON có sẵn của Dart nên không cần thêm package ở đây)
